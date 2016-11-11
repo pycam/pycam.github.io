@@ -1,4 +1,1 @@
-pycam.github.io
-===============
-
-Python course website
+### Python course website
