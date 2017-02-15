@@ -7,8 +7,10 @@ run by the [Graduate School of Life Sciences](http://www.training.cam.ac.uk/gsls
 
 ### Course description
 Since February 2017, the original two days course, taught over many years (on GitHub since 2013), has been rewritten into two separate courses running over three days.
+
 - **Introduction to solving biological problems with Python**:
 This course provides a practical introduction to the writing of Python programs for the complete novice. Participants are lead through the core aspects of Python illustrated by a series of example programs. Upon completion of the course, attentive participants will be able to write simple Python programs and customize more complex code to fit their needs.
+
 - **Python functions and modules: best practices**: This course will cover *concepts and strategies for working more effectively with Python* with the aim of writing reusable code. In the morning session, we will briefly go over the basic syntax, data structures and control statements. This will be followed by an introduction to writing user-defined functions. We will finish the course by looking into how to incorporate existing Python modules and packages into your programs as well as writing you own modules.
 
 ### Course materials
