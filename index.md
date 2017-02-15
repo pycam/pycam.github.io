@@ -3,7 +3,7 @@ This page provides links to the course materials and example solutions to the ex
 
 - [Etherpad for Dec16 course](https://public.etherpad-mozilla.org/p/pycam-dec16)
 
-### Course materials and schedule
+### Course materials
 The course materials are available as [Jupyter notebook](http://jupyter.org/) files,
 one for each session of the course. Jupyter notebooks allow you to interactively run python code in your browser
 and if you [install Jupyter](https://jupyter.readthedocs.io/en/latest/install.html) on your own machine
@@ -15,6 +15,7 @@ our [course GitHub repository](https://github.com/pycam/python-intro).
 Static renderings of the notebooks (that do not support interactively running the examples)
 are also available (using the [Jupyter notebook viewer](http://nbviewer.jupyter.org/)) as a service from GitHub:
 
+### Course schedule
 - **Day 1:** [Course schedule](https://github.com/pycam/python-intro/blob/master/Introduction_to_python_day_1_introduction.ipynb)
   - [Day 1 - Introduction](https://github.com/pycam/python-intro/blob/master/Introduction_to_python_day_1_introduction.ipynb)
   - [Day 1 - Session 1](https://github.com/pycam/python-intro/blob/master/Introduction_to_python_day_1_session_1.ipynb)
