@@ -1,54 +1,64 @@
 ### Welcome to the PyCam course webpage
-This page provides links to the course materials and example solutions to the exercises for the "Introduction to solving biological problems with Python" course run by the [Graduate School of Life Sciences](http://www.training.cam.ac.uk/gsls/), University of Cambridge.
+This page provides information and links to these two Python courses:
+- **Introduction to solving biological problems with Python**; and
+- **Python functions and modules: best practices**
+
+run by the [Graduate School of Life Sciences](http://www.training.cam.ac.uk/gsls/) at University of Cambridge, UK.
 
 - [Etherpad for Dec16 course](https://public.etherpad-mozilla.org/p/pycam-dec16)
 
+### Course description
+
+#### Introduction to solving biological problems with Python
+This course provides a practical introduction to the writing of Python programs for the complete novice. Participants are lead through the core aspects of Python illustrated by a series of example programs. Upon completion of the course, attentive participants will be able to write simple Python programs and customize more complex code to fit their needs.
+
+#### Python functions and modules: best practices
+This course will cover **concepts and strategies for working more effectively with Python** with the aim of writing reusable code. In the morning session, we will briefly go over the basic syntax, data structures and control statements. This will be followed by an introduction to writing user-defined functions. We will finish the course by looking into how to incorporate existing Python modules and packages into your programs as well as writing you own modules.
+
 ### Course materials
-The course materials are available as [Jupyter notebook](http://jupyter.org/) files,
-one for each session of the course. Jupyter notebooks allow you to interactively run python code in your browser
-and if you [install Jupyter](https://jupyter.readthedocs.io/en/latest/install.html) on your own machine
-you can then run the notebooks and experiment with the example code. A quick installation guide is also available
-in our course GitHub repository in the [README.md file](https://github.com/pycam/python-intro/blob/master/README.md).
-The notebook and example data files as well as scripts used in the course are available to download from
-our [course GitHub repository](https://github.com/pycam/python-intro).
+The course materials are available as [Jupyter notebook](http://jupyter.org/) files, one for each session of the course. Jupyter notebooks allow you to interactively run python code in your browser and if you [install Jupyter](https://jupyter.readthedocs.io/en/latest/install.html) on your own machine, you can then run the notebooks and experiment with the example code. A quick installation guide is also available in our introductory course repository on GitHub in the [README.md file](https://github.com/pycam/python-basic/blob/master/README.md).
+
+The notebook and example data files as well as scripts used in both courses are available to download from
+our course's repositories:
+- [Introductory course repo](https://github.com/pycam/python-basic) for _'Introduction to solving biological problems with Python'_ course
+- [Functions and modules repo](https://github.com/pycam/python-functions-and-modules) for _'Python functions and modules: best practices'_ course 
 
 Static renderings of the notebooks (that do not support interactively running the examples)
-are also available (using the [Jupyter notebook viewer](http://nbviewer.jupyter.org/)) as a service from GitHub:
+are also available (using the [Jupyter notebook viewer](http://nbviewer.jupyter.org/)) as a service from GitHub.
 
 ### Course schedule
-- **Day 1:** [Course schedule](https://github.com/pycam/python-intro/blob/master/Introduction_to_python_day_1_introduction.ipynb)
-  - [Day 1 - Introduction](https://github.com/pycam/python-intro/blob/master/Introduction_to_python_day_1_introduction.ipynb)
-  - [Day 1 - Session 1](https://github.com/pycam/python-intro/blob/master/Introduction_to_python_day_1_session_1.ipynb)
-  - [Day 1 - Session 2: Collections](https://github.com/pycam/python-intro/blob/master/Introduction_to_python_day_1_session_2.ipynb)
-  - [Day 1 - Session 3: Conditional execution](https://github.com/pycam/python-intro/blob/master/Introduction_to_python_day_1_session_3.ipynb)
-  - [Day 1 - Session 4: Loops](https://github.com/pycam/python-intro/blob/master/Introduction_to_python_day_1_session_4.ipynb)
-- **Day 2:** [Course schedule](https://github.com/pycam/python-intro/blob/master/Introduction_to_python_day_2_introduction.ipynb)
-  - [Day 2 - Introduction](https://github.com/pycam/python-intro/blob/master/Introduction_to_python_day_2_introduction.ipynb)
-  - [Day 2 - Session 1: Functions](https://github.com/pycam/python-intro/blob/master/Introduction_to_python_day_2_session_1.ipynb)
-  - [Day 2 - Session 2: Exercises and Modules](https://github.com/pycam/python-intro/blob/master/Introduction_to_python_day_2_session_2.ipynb)
-  - [Day 2 - Session 3: Files](https://github.com/pycam/python-intro/blob/master/Introduction_to_python_day_2_session_3.ipynb)
-  - [Day 2 - Session 4: Biopython](https://github.com/pycam/python-intro/blob/master/Introduction_to_python_day_2_session_4.ipynb)
+
+#### Introduction to solving biological problems with Python
+- **Day 1:** [Day 1 - Introduction](https://github.com/pycam/python-basic/blob/master/Introduction_to_python_day_1_introduction.ipynb)
+- **Day 2:** [Day 2 - Introduction](https://github.com/pycam/python-basic/blob/master/Introduction_to_python_day_2_introduction.ipynb)
+
+#### Python functions and modules: best practices
+- **One full day**: _work in progress_
 
 ### Course objectives
-- Day 1:
-  - **Recall** how to print, create variables and save Python code in files
-  - **List** the most common data types in Python
-  - **Explain** how to write conditions and loops in Python
-  - **Use and compare** these concepts in different code examples
-  - **propose and create** solutions using these concepts in different exercises
-- Day 2:
-  - **Recall** what we've learned so far on variables, common data types, conditions and loops
-  - **Propose and create** solutions using these concepts in an exercise
-  - **Employ** functions and modules to reuse code
-  - **Practice** reading and writing files with Python
-  - **Use** third-party library BioPython
-  - **Solve** more complex exercises
+
+#### Introduction to solving biological problems with Python
+- Edit and run Python code
+- Write file-processing python programs that produce output to the terminal and/or external files
+- Create stand-alone python programs to process biological data
+- Know how to develop your skills in Python after the course
+- During this course you will learn about:
+  - Core concepts about Python syntax: data types, variables, blocks and indentation, writing code in file
+  - Different ways to control program flow using loops and conditional tests
+  - Reading from and writing to files
+
+#### Python functions and modules: best practices
+- Write reusable Python code, using functions and libraries effectively, and according to best practice guidelines
+- Acquire a working knowledge of key concepts which are prerequisites for advanced programming in Python e.g. writing modules
+- During this course you will learn about:
+  - Writing functions
+  - Best practice approaches to write reusable code
+  - Structuring code in a custom module
+  - Using Python libraries
+  - Working with biological data using BioPython
 
 ### Exercise solutions
-Example solutions to all of the exercises from the course materials are available from the
-course repository in the [solutions folder](https://github.com/pycam/python-intro/tree/master/solutions).
-The solution scripts are named sequentially for each session,
-for example [ex1_2_3.py](https://github.com/pycam/python-intro/blob/master/solutions/ex1_2_3.py) contains a solution for the 3rd set of exercises from day 1, session 2.
+Example solutions to all of the exercises from the course materials are available from the course repository in the `solutions` folder. The solution scripts are named sequentially for each session.
 
 Note that these solutions are just examples, and there are many 'correct' solutions to these exercises. If you spot any issues or bugs with the solutions, or indeed any of the course materials, please let us know (pull requests are welcome!)
 
