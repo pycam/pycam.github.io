@@ -17,11 +17,15 @@ This course provides a practical introduction to the writing of Python programs 
 The course materials are available as [Jupyter notebook](http://jupyter.org/) files, one for each session of the course. Jupyter notebooks allow you to interactively run python code in your browser and if you [install Jupyter](https://jupyter.readthedocs.io/en/latest/install.html) on your own machine, you can then run the notebooks and experiment with the example code. A quick installation guide is also available in our introductory course repository on GitHub in the [README.md file](https://github.com/pycam/python-basic/blob/master/README.md).
 
 The notebook and example data files as well as scripts used in both courses are available to download from our course's repositories:
+
 - [python-basic course repo](https://github.com/pycam/python-basic) for _'Introduction to solving biological problems with Python'_ course
+
 - [python-functions-and-modules repo](https://github.com/pycam/python-functions-and-modules) for _'Python functions and modules: best practices'_ course
 
 Static renderings of the notebooks (that do not support interactively running the examples)
 are also available (using the [Jupyter notebook viewer](http://nbviewer.jupyter.org/)) as a service from GitHub.
+
+Web-based collaborative editor is used during some courses, allowing everyone to simultaneously ask questions by editing a text document, and see all participants' edits in real-time:
 
 - [Etherpad for Dec16 course](https://public.etherpad-mozilla.org/p/pycam-dec16)
 
