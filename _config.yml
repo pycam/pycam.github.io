@@ -1,0 +1,8 @@
+title: Introduction to solving biological problems with Python
+description: 
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-minimal
+
+gems:
+  - jekyll-mentions
