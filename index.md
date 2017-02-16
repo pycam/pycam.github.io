@@ -33,8 +33,8 @@ Web-based collaborative editor is used during some courses, allowing everyone to
 ### Course schedule
 
 - **Introduction to solving biological problems with Python**
-  - [Day 1 - Introduction](https://github.com/pycam/python-basic/blob/master/Introduction_to_python_day_1_introduction.ipynb)
-  - [Day 2 - Introduction](https://github.com/pycam/python-basic/blob/master/Introduction_to_python_day_2_introduction.ipynb)
+  - [Day 1 - Introduction: objectives and course schedule](https://github.com/pycam/python-basic/blob/master/python_basic_1_intro.ipynb)
+  - [Day 2 - Introduction: objectives and course schedule](https://github.com/pycam/python-basic/blob/master/python_basic_2_intro.ipynb)
 - **Python functions and modules: best practices**
   - One full day: _work in progress_
 
