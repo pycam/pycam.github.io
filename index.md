@@ -1,7 +1,7 @@
 This page provides information and links to these two Python courses:
 
 - **[Introduction to solving biological problems with Python](https://github.com/pycam/python-basic)**; and
-- **[Python functions and modules: best practices](https://github.com/pycam/python-functions-and-modules)**
+- **[Working with Python: functions and modules](https://github.com/pycam/python-functions-and-modules)**
 
 run by the [Graduate School of Life Sciences](http://www.training.cam.ac.uk/gsls/) at University of Cambridge, UK.
 
@@ -11,7 +11,7 @@ Since February 2017, the original two days course, taught over many years (on Gi
 - **Introduction to solving biological problems with Python**:
 This course provides a practical introduction to the writing of Python programs for the complete novice. Participants are lead through the core aspects of Python illustrated by a series of example programs. Upon completion of the course, attentive participants will be able to write simple Python programs and customize more complex code to fit their needs.
 
-- **Python functions and modules: best practices**: This course will cover *concepts and strategies for working more effectively with Python* with the aim of writing reusable code. In the morning session, we will briefly go over the basic syntax, data structures and control statements. This will be followed by an introduction to writing user-defined functions. We will finish the course by looking into how to incorporate existing Python modules and packages into your programs as well as writing you own modules.
+- **Working with Python: functions and modules**: This course will cover *concepts and strategies for working more effectively with Python* with the aim of writing reusable code. In the morning session, we will briefly go over the basic syntax, data structures and control statements. This will be followed by an introduction to writing user-defined functions. We will finish the course by looking into how to incorporate existing Python modules and packages into your programs as well as writing you own modules.
 
 ### Course materials
 The course materials are available as [Jupyter notebook](http://jupyter.org/) files, one for each session of the course. Jupyter notebooks allow you to interactively run python code in your browser and if you [install Jupyter](https://jupyter.readthedocs.io/en/latest/install.html) on your own machine, you can then run the notebooks and experiment with the example code. A quick installation guide is also available in our introductory course repository on GitHub in the [README.md file](https://github.com/pycam/python-basic/blob/master/README.md).
@@ -20,7 +20,7 @@ The notebook and example data files as well as scripts used in both courses are 
 
 - [python-basic course repo](https://github.com/pycam/python-basic) for _'Introduction to solving biological problems with Python'_ course
 
-- [python-functions-and-modules repo](https://github.com/pycam/python-functions-and-modules) for _'Python functions and modules: best practices'_ course
+- [python-functions-and-modules repo](https://github.com/pycam/python-functions-and-modules) for _'Working with Python: functions and modules'_ course
 
 Static renderings of the notebooks (that do not support interactively running the examples)
 are also available (using the [Jupyter notebook viewer](http://nbviewer.jupyter.org/)) as a service from GitHub.
@@ -35,7 +35,7 @@ Web-based collaborative editor is used during some courses, allowing everyone to
 - **Introduction to solving biological problems with Python**
   - [Day 1 - Introduction: objectives and course schedule](https://github.com/pycam/python-basic/blob/master/python_basic_1_intro.ipynb)
   - [Day 2 - Introduction: objectives and course schedule](https://github.com/pycam/python-basic/blob/master/python_basic_2_intro.ipynb)
-- **Python functions and modules: best practices**
+- **Working with Python: functions and modules**
   - [One full day - Introduction: objectives and course schedule](https://github.com/pycam/python-functions-and-modules/blob/master/python_fm_intro.ipynb)
 
 ### Course objectives
@@ -48,7 +48,7 @@ Web-based collaborative editor is used during some courses, allowing everyone to
     - Core concepts about Python syntax: data types, variables, blocks and indentation, writing code in file
     - Different ways to control program flow using loops and conditional tests
     - Reading from and writing to files
-- **Python functions and modules: best practices**
+- **Working with Python: functions and modules**
   - Write reusable Python code, using functions and libraries effectively, and according to best practice guidelines
   - Acquire a working knowledge of key concepts which are prerequisites for advanced programming in Python e.g. writing modules
   - During this course you will learn about:
