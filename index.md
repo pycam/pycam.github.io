@@ -1,17 +1,16 @@
 This page provides information and links to these two Python courses:
 
 - **[Introduction to solving biological problems with Python](https://github.com/pycam/python-basic)**; and
-- **[Working with Python: functions and modules](https://github.com/pycam/python-functions-and-modules)**
+- **[Data science in Python](https://github.com/pycam/python-data-science)**
 
-run by the [Graduate School of Life Sciences](http://www.training.cam.ac.uk/gsls/) at University of Cambridge, UK.
+run by the [Graduate School of Life Sciences](http://www.training.cam.ac.uk/) of the University of Cambridge, UK.
 
 ### Course description
-Since February 2017, the original two days course, taught over many years (on GitHub since 2013), has been rewritten into two separate courses running over three days.
+Since February 2017, the original two days course, taught over many years (on GitHub since 2013), has been rewritten into two separate courses running over four days.
 
-- **Introduction to solving biological problems with Python**:
-This course provides a practical introduction to the writing of Python programs for the complete novice. Participants are lead through the core aspects of Python illustrated by a series of example programs. Upon completion of the course, attentive participants will be able to write simple Python programs and customize more complex code to fit their needs.
+- **Introduction to solving biological problems with Python**: This course provides a practical introduction to the writing of Python programs for the complete novice. Participants are lead through the core aspects of Python illustrated by a series of example programs. Upon completion of the course, attentive participants will be able to write simple Python programs and customise more complex code to fit their needs.
 
-- **Working with Python: functions and modules**: This course will cover *concepts and strategies for working more effectively with Python* with the aim of writing reusable code. In the morning session, we will briefly go over the basic syntax, data structures and control statements. This will be followed by an introduction to writing user-defined functions. We will finish the course by looking into how to incorporate existing Python modules and packages into your programs as well as writing you own modules.
+- **Data science in Python**: This course covers *concepts and strategies for working more effectively with Python* with the aim of writing reusable code. We will be using Python libraries to explore data in files, creating functions and modules to write reusable code, manipulating data using Pandas, visualising data with Matplotlib and working with biological data using BioPython.
 
 ### Course materials
 The course materials are available as [Jupyter notebook](http://jupyter.org/) files, one for each session of the course. Jupyter notebooks allow you to interactively run python code in your browser and if you [install Jupyter](https://jupyter.readthedocs.io/en/latest/install.html) on your own machine, you can then run the notebooks and experiment with the example code. A quick installation guide is also available in our introductory course repository on GitHub in the [README.md file](https://github.com/pycam/python-basic/blob/master/README.md).
@@ -20,7 +19,7 @@ The notebook and example data files as well as scripts used in both courses are 
 
 - [python-basic course repo](https://github.com/pycam/python-basic) for _'Introduction to solving biological problems with Python'_ course
 
-- [python-functions-and-modules repo](https://github.com/pycam/python-functions-and-modules) for _'Working with Python: functions and modules'_ course
+- [python-data-science course repo](https://github.com/pycam/python-data-science) for _'Data science in Python'_ course
 
 Static renderings of the notebooks (that do not support interactively running the examples)
 are also available (using the [Jupyter notebook viewer](http://nbviewer.jupyter.org/)) as a service from GitHub.
@@ -35,8 +34,9 @@ Web-based collaborative editor is used during some courses, allowing everyone to
 - **Introduction to solving biological problems with Python**
   - [Day 1 - Introduction: objectives and course schedule](https://github.com/pycam/python-basic/blob/master/python_basic_1_intro.ipynb)
   - [Day 2 - Introduction: objectives and course schedule](https://github.com/pycam/python-basic/blob/master/python_basic_2_intro.ipynb)
-- **Working with Python: functions and modules**
-  - [One full day - Introduction: objectives and course schedule](https://github.com/pycam/python-functions-and-modules/blob/master/python_fm_intro.ipynb)
+- **Data science in Python**
+  - [Day 1 - Aims, objectives and course schedule](https://github.com/pycam/python-data-science/blob/master/10_python_data_intro.ipynb)
+  - [Day 2 - Aims, objectives and course schedule](https://github.com/pycam/python-data-science/blob/master/20_python_data_intro.ipynb)
 
 ### Course objectives
 - **Introduction to solving biological problems with Python**
@@ -48,14 +48,14 @@ Web-based collaborative editor is used during some courses, allowing everyone to
     - Core concepts about Python syntax: data types, variables, blocks and indentation, writing code in file
     - Different ways to control program flow using loops and conditional tests
     - Reading from and writing to files
-- **Working with Python: functions and modules**
-  - Write reusable Python code, using functions and libraries effectively, and according to best practice guidelines
-  - Acquire a working knowledge of key concepts which are prerequisites for advanced programming in Python e.g. writing modules
+- **Data science in Python**
+  - Writing **reusable** code, using **functions** and **libraries**
+  - Acquiring a working knowledge of **key concepts** which are prerequisites for advanced programming in Python like writing classes to build objects
   - During this course you will learn about:
-    - Writing functions
-    - Best practice approaches to write reusable code
-    - Structuring code in a custom module
-    - Using Python libraries
+    - Using Python libraries to explore data in files
+    - Creating functions and modules to write reusable code
+    - Manipulating data using Pandas
+    - Visualising data with Matplotlib
     - Working with biological data using BioPython
 
 ### Exercise solutions
@@ -65,17 +65,20 @@ Note that these solutions are just examples, and there are many 'correct' soluti
 
 ### Presenters
 - **Current presenters**:
-  - Tomás Di Domenico, University of Cambridge
-  - Mareike Herzog, University of Cambridge
   - Mukarram Hossain, University of Cambridge
-  - Maire Lawlor, Sanger Institute
-  - Sergio Martinez Cuesta, CRUK-CI, University of Cambridge
+  - Samuel Lewis, University of Cambridge
+  - Sebastian Mueller, University of Cambridge
   - Anne Pajon, CRUK-CI, University of Cambridge
+  - Fabio Puddu, Gurdon Institute, University of Cambridge
   - Cristian Riccio, University of Cambridge
 - Previous presenters:
   - Gabor Bunkoczi, CIMR, University of Cambridge
   - Tom Carroll, MRC Clinical Sciences Centre, Imperial College London
+  - Tomás Di Domenico, University of Cambridge
+  - Mareike Herzog, University of Cambridge
+  - Maire Lawlor, Sanger Institute
   - David Molnar, University of Cambridge
+  - Sergio Martinez Cuesta, CRUK-CI, University of Cambridge
   - James Morris, CRUK-CI, University of Cambridge
   - Graham Ritchie, Usher Institute of Population Health Sciences & Informatics, University of Edinburgh
   - Inês de Santiago, CRUK-CI, University of Cambridge
